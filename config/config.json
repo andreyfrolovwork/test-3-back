@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "andrey",
+    "password": "password",
+    "database": "test_3",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "andrey",
+    "password": "password",
+    "database": "test_3",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "andrey",
+    "password": "password",
+    "database": "test_3",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
